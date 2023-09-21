@@ -34,6 +34,6 @@ Caso queira utilizar o projeto faça um fork do repositório. Após isso utilize
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn%20Jefferson%20Cezar-white?logo=LinkedIn&logoColor=blue&logoWidth=30)](https://www.linkedin.com/in/jeffersoncezarsilva/)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn%20Alex%20Santana-white?logo=LinkedIn&logoColor=blue&logoWidth=30)](https://www.linkedin.com/in/jeffersoncezarsilva/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn%20Alex%20Santana-white?logo=LinkedIn&logoColor=blue&logoWidth=30)](https://www.linkedin.com/in/alexdeividy/)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn%20Rodrigo%20Marques-white?logo=LinkedIn&logoColor=blue&logoWidth=30)](https://www.linkedin.com/in/jeffersoncezarsilva/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn%20Rodrigo%20Marques-white?logo=LinkedIn&logoColor=blue&logoWidth=30)](https://www.linkedin.com/in/rodrigo-marques021/)
